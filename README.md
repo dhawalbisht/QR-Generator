@@ -1,4 +1,4 @@
 ﻿# QR-Generator
 
-![image](https://github.com/dhawalbisht/QR-Generator/assets/73132472/549debe8-7057-4021-acd5-e0d04deafcbb)
+![image](https://github.com/dhawalbisht/QR-Generator/assets/73132472/3966251d-1c38-41e2-84bc-79bbe27184f4)
 
